@@ -1,6 +1,6 @@
 # Carousel Reviews
 
-A simple Color Flipper where you can change the background color of the web page
+A Carousel Reviews of a tech team where it's displayed inside a card.
 
 ## Features
 
